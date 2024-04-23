@@ -2,7 +2,7 @@
 title:               Justin Lamb
 tagline:             'A Blog'
 description:         'My personal blog'
-url:                 https://justinlamb.org
+url:                 https://blog.justinlamb.org
 baseurl:             ''
 paginate:            5
 permalink:           pretty
