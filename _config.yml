@@ -1,7 +1,7 @@
 # Setup
 title:               Justin Lamb
-tagline:             'A Blog'
-description:         'My personal blog'
+tagline:             'Blog'
+description:         'Personal Blog'
 url:                 https://blog.justinlamb.org
 baseurl:             ''
 paginate:            5
