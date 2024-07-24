@@ -15,7 +15,7 @@ I’ve added a scoring system to the game! Now, harvesting ripe plants will earn
 I also took some time to clean up the buttons. I reduced the borders and vertically centered the text, making them look a bit neater. Eventually, I plan to replace these with custom images to have more control over the look, but for now, they’re much cleaner.
 
 ### Tooltip Display Adjustments
-Following up on the [previous update](/_posts/2024-07-18-Devlog-Tooltips-Idle-Garden.md), I made further adjustments to the tooltip display system. I removed the blue text and added a light background behind the text. It’s still not perfect, but it’s definitely less jarring than the original implementation.
+Following up on the [previous update](https://blog.justinlamb.org/2024/07/18/Devlog-Tooltips-Idle-Garden/), I made further adjustments to the tooltip display system. I removed the blue text and added a light background behind the text. It’s still not perfect, but it’s definitely less jarring than the original implementation.
 
 That’s it for today! Stay tuned for more updates.
 
