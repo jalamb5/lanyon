@@ -6,7 +6,7 @@ title: "Devlog: Tooltips Implementation in Idle Garden 🌱"
 
 ![Idle Garden Tooltips](/assets/Idle_Garden_0.10_tooltips.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
-Today I completed work on version 0.10 of Idle Garden, this version introduces tooltips for the buttons on the sidebar. Here's a breakdown of the implementation process:
+Today I completed work on version 0.10 of [Idle Garden](https://jalamb5.itch.io/idle-garden), this version introduces tooltips for the buttons on the sidebar. Here's a breakdown of the implementation process:
 
 ### Initial Approach
 At first, I tried generating new labels based on the mouse's x, y coordinates. However, having the tips move with the mouse felt a bit chaotic. So, I decided to pin them to a set location based on each button's coordinates.
